@@ -87,7 +87,9 @@
 
 <br clear="both">
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kalle94&count=5)
+<div align="center>
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kalle94&count=5)
+</div>
 
 ###
 
