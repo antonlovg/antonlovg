@@ -95,7 +95,7 @@
 ###
 
 <p align="center">
-  <a href="https://hits.sh/github.com/antonlovg/hits/"><img alt="Hits" src="https://hits.sh/github.com/silentsoft/hits.svg"/></a>
+  <img src="https://visitcount.itsvg.in/api?id=antonlovg&icon=1&color=0" alt="Profile views">
 </p>
 
 ###
