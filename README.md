@@ -94,9 +94,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=antonlovg.antonlovg&left_text=profile views"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=antonlovg" alt="Profile Views Counter">
+</p>
 
 ###
 
