@@ -95,7 +95,7 @@
 ###
 
 <p align="center">
-  <a href="https://hits.sh/github.com/silentsoft/hits/"><img alt="Hits" src="https://hits.sh/github.com/silentsoft/hits.svg"/></a>
+  <a href="https://hits.sh/github.com/antonlovg/hits/"><img alt="Hits" src="https://hits.sh/github.com/silentsoft/hits.svg"/></a>
 </p>
 
 ###
