@@ -57,19 +57,19 @@
 
 ###
 
-<h3 align="left">📖 About me:</h3>
+<h3 align="center">📖 About me:</h3>
 
 ###
 
-<p align="left">👨🏻‍🎓 I’m currently a DevOps student @ Nackademin<br>👯 I’m looking for a LIA-place in the near future<br>☁️ I’m looking for help with Python & Cloud<br>🐍 I’m currently learning Python<br>💬 Ask me about anything</p>
+<p align="center">👨🏻‍🎓 I’m currently a DevOps student @ Nackademin<br>👯 I’m looking for a LIA-place in the near future<br>☁️ I’m looking for help with Python & Cloud<br>🐍 I’m currently learning Python<br>💬 Ask me about anything</p>
 
 ###
 
-<h3 align="left">👨‍💻 Languages learned so far:</h3>
+<h3 align="center">👨‍💻 Languages learned so far:</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25" alt="python logo"  />
 </div>
 
