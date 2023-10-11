@@ -61,7 +61,7 @@
 
 ###
 
-<h4 align="left">👨🏻‍🎓 I’m currently a DevOps student @ Nackademin<br>👯 I’m looking for a LIA-place in the near future<br>☁️ I’m looking for help with Python & Cloud<br>🐍 I’m currently learning Python<br>💬 Ask me about anything</p>
+<h4 align="left">👨🏻‍🎓 I’m currently a DevOps student @ Nackademin<br>👯 I’m looking for a LIA-place in the near future<br>☁️ I’m looking for help with Python & Cloud<br>🐍 I’m currently learning Python<br>💬 Ask me about anything</h4>
 
 ###
 
@@ -95,7 +95,7 @@
 ###
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=antonlovg&label=Profile Views" alt="Profile Views Counter">
+  <a href="https://hits.sh/github.com/silentsoft/hits/"><img alt="Hits" src="https://hits.sh/github.com/silentsoft/hits.svg"/></a>
 </p>
 
 ###
