@@ -95,7 +95,7 @@
 ###
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=antonlovg" alt="Profile Views Counter">
+  <img src="https://komarev.com/ghpvc/?username=antonlovg&label=Profile Views" alt="Profile Views Counter">
 </p>
 
 ###
