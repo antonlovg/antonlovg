@@ -61,7 +61,7 @@
 
 ###
 
-<p align="center">👨🏻‍🎓 I’m currently a DevOps student @ Nackademin<br>👯 I’m looking for a LIA-place in the near future<br>☁️ I’m looking for help with Python & Cloud<br>🐍 I’m currently learning Python<br>💬 Ask me about anything</p>
+<p align="center">👨🏻‍🎓 I’m currently a DevOps student @ Nackademin<br>👯 I’m looking for a LIA-place in the near future<br>☁️ I’m looking for help with Python & Javad<br>🐍 I’m currently learning Java<br>💬 Thats it</p>
 
 ###
 
