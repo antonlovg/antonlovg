@@ -16,12 +16,6 @@
   <a href="https://www.linkedin.com/in/anton-lovgren/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
-  <a href="antonlovgren" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/jebewondose/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
-  </a>
   <a href="https://www.facebook.com/anton.lovgren2/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo"  />
   </a>
@@ -61,17 +55,7 @@
 
 ###
 
-<p align="center">👨🏻‍🎓 I’m currently a DevOps student @ Nackademin<br>👯 I’m looking for a LIA-place in the near future<br>☁️ I’m looking for help with Python & Javad<br>🐍 I’m currently learning Java<br>💬 Thats it</p>
-
-###
-
-<h3 align="center">👨‍💻 Languages learned so far:</h3>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25" alt="python logo"  />
-</div>
+<p align="center">👨🏻‍🎓 I’m currently a DevOps student @ Nackademin<br>👯 I’m looking for an internship between December 2024 - April 2025<br>
 
 ###
 
@@ -82,15 +66,6 @@
 <div align="center">
   <img height="85" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"  />
 </div>
-
-###
-
-<br clear="both">
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=kalle94&count=5" alt="Spotify recently played">
-</p>
-
 
 ###
 
