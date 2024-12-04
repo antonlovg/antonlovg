@@ -52,7 +52,7 @@
 
 ###
 
-<p align="center">👨🏻‍🎓 I’m currently a DevOps student @ Nackademin<br>👯 I’m looking for an internship between December 2024 - April 2025<br>
+<p align="center">👨🏻‍🎓 I’m currently a DevOps student @ Nackademin<br>👯
 
 ###
 
